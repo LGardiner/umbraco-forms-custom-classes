@@ -21,4 +21,13 @@ No more guid comparisons or relying on field names to add classes via js!
 * Textfield - extended
 * Text - extended
 
+#### In the field type panel
 ![In editor preview](https://github.com/LGardiner/umbraco-forms-custom-classes/blob/master/CustomFieldTypes.PNG)
+
+#### In the field panel example
+![In editor preview](https://github.com/LGardiner/umbraco-forms-custom-classes/blob/master/CustomFieldTypeShortAnswer.PNG)
+
+#### The field template
+![In editor preview](https://github.com/LGardiner/umbraco-forms-custom-classes/blob/master/CustomFieldTypes.PNG)
+
+

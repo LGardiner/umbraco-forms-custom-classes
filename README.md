@@ -28,6 +28,6 @@ No more guid comparisons or relying on field names to add classes via js!
 ![In editor preview](https://github.com/LGardiner/umbraco-forms-custom-classes/blob/master/CustomFieldTypeShortAnswer.PNG)
 
 #### The field template
-![In editor preview](https://github.com/LGardiner/umbraco-forms-custom-classes/blob/master/CustomFieldTypes.PNG)
+![In editor preview](https://github.com/LGardiner/umbraco-forms-custom-classes/blob/master/CustomFieldTypeShortAnswerTemplate.PNG)
 
 
